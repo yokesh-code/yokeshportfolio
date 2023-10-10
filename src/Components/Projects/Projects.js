@@ -75,7 +75,7 @@ function Projects(props) {
                   />
                   <div className="my-2">
                     <a
-                      href="https://main--symphonious-malabi-7106a9.netlify.app/login"
+                      href="https://main--symphonious-malabi-7106a9.netlify.app/"
                       target="blank"
                     >
                       <button className="btn btn-warning">Live</button>
