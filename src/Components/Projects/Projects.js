@@ -10,7 +10,7 @@ function Projects(props) {
             <div class="card h-100">
               <img
                 class="card-img-top"
-                src="project1.png"
+                src="project2.png"
                 height={"200px"}
                 width={"400px"}
                 alt="project1"
@@ -68,7 +68,7 @@ function Projects(props) {
                 <div className="d-flex flex-column justify-content-center align-items-center">
                   <img
                     class="card-img-top"
-                    src="project2.png"
+                    src="project1.png"
                     height={"300px"}
                     width={"300px"}
                     alt="project3"
